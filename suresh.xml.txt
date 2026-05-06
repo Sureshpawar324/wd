@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="kiran.css"?>
+<?xml-stylesheet type="text/css" href="Suresh.css"?>
 
 <college>
     
 	<student>
-		<name>Kiran WAGHMODE </name>
+		<name>Suresh Pawar </name>
 		<gender>Male</gender>
 		<age> 20 </age>
 		<course> Computer  Engineering</course>
 		<year> second year</year>
 		<collegeName> D Y Patil college of engineering and technology, Kolhapur</collegeName>
 		<address>
-		<city> Malshiras</city>
+		<city> Indapur</city>
 		<state> Maharashtra</state>
 		<country> India </country>
 		</address>
 		<contact>
 		<mobile>1234656789</mobile>
-		<email>waghmodekiran001@gmail.com</email>
+		<email>sp1877053@gmail.com</email>
 		</contact>
 		<skills>
 		<p> Basic Java programming</p>
